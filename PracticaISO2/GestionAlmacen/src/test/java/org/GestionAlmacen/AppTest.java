@@ -1,4 +1,4 @@
-package es.GesCar.PracticaISO2;
+package org.GestionAlmacen;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
