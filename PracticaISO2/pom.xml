@@ -24,5 +24,6 @@
   </dependencies>
   <modules>
     <module>GestionAlmacen</module>
+    <module>GestionarCliente</module>
   </modules>
 </project>
