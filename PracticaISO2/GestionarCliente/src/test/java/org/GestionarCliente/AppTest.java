@@ -1,4 +1,4 @@
-package org.GestionAlmacen;
+package org.GestionarCliente;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
