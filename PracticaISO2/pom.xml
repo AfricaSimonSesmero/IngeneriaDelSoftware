@@ -25,5 +25,7 @@
   <modules>
     <module>GestionAlmacen</module>
     <module>GestionarCliente</module>
+    <module>GestionaBox</module>
+    <module>GestionarBox</module>
   </modules>
 </project>
