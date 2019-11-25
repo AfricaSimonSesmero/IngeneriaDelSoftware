@@ -1,4 +1,4 @@
-package org.GestionarBox;
+package org.PagarTarjeta;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

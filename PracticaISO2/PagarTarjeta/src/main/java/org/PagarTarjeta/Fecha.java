@@ -1,20 +1,20 @@
-package org.GestionarCliente;
+package org.PagarTarjeta;
 
 public abstract class Fecha {
 
 	private int Dia;
 	private int Mes;
-	private int Anio;
+	private int Año;
 	private int Hora;
 
 	/**
 	 * 
 	 * @param Dia
 	 * @param Mes
-	 * @param A�o
+	 * @param Año
 	 * @param Hora
 	 */
-	public void Reserva(int Dia, int Mes, int Anio, int Hora) {
+	public void Reserva(int Dia, int Mes, int Año, int Hora) {
 		// TODO - implement Fecha.Reserva
 		throw new UnsupportedOperationException();
 	}
@@ -47,17 +47,17 @@ public abstract class Fecha {
 		throw new UnsupportedOperationException();
 	}
 
-	public int getAnio() {
-		// TODO - implement Fecha.getA�o
+	public int getAño() {
+		// TODO - implement Fecha.getAño
 		throw new UnsupportedOperationException();
 	}
 
 	/**
 	 * 
-	 * @param A�o
+	 * @param Año
 	 */
-	public void setAnio(int Anio) {
-		// TODO - implement Fecha.setA�o
+	public void setAño(int Año) {
+		// TODO - implement Fecha.setAño
 		throw new UnsupportedOperationException();
 	}
 
