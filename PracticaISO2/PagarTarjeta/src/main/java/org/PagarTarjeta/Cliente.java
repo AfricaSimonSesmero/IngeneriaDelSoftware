@@ -1,4 +1,4 @@
-package org.GestionarCliente;
+package org.PagarTarjeta;
 
 public class Cliente {
 

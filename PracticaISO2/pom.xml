@@ -28,5 +28,6 @@
     <module>GestionaBox</module>
     <module>GestionarBox</module>
     <module>GestionarListaPiezas</module>
+    <module>PagarTarjeta</module>
   </modules>
 </project>
