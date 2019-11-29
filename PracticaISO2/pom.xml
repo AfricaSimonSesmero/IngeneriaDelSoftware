@@ -30,5 +30,6 @@
     <module>GestionarListaPiezas</module>
     <module>PagarTarjeta</module>
     <module>GestionarPago</module>
+    <module>RealizarEstadisticas</module>
   </modules>
 </project>
